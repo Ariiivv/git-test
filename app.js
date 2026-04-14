@@ -1,5 +1,5 @@
 function greet() {
-  console.log("Hello Git");
+  console.log("Hello Pranav");
 }
 
 greet();
